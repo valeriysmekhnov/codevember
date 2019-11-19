@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 import pages.LoginPage;
 import pages.SecureAreaPage;
 
-import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
 /***
